@@ -226,4 +226,6 @@ You can also click **Register** to register a new student account with your coll
 9. **Check Performance Analytics**: Navigate to **Performance Analysis** to view your strongest and weakest categories and personalized placement preparation advice.
 10. **Test Admin Console**: Log in as `admin@placementprep.com` and visit **Admin Dashboard** to add new placement questions and monitor enrolled students.
 #   o n l i n e - q u i z e - a p p l i c a t i o n  
+ #   o n l i n e _ q u i z e _ a p p l i c a t i o n  
+ #   o n l i n e _ q u i z e _ a p p l i c a t i o n  
  
